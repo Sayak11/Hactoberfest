@@ -1,1 +1,1 @@
-# Following repo consists of various programs in python.
+# Following repo consists of various programs on basic competitive programming.
